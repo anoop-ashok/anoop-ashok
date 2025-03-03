@@ -1,7 +1,7 @@
 Hi there 👋
 
 I am Anoop. MERN/MEAN stack developer with a specialization in Frontend and Backend development.
-Full-Stack Web Developer having more than 10 years Frontend development experience.
+Full-Stack Web Developer having more than 12 years Frontend development experience.
 Microsoft certified professional in Programming in HTML5 with JavaScript and CSS3.
 
 Please check my personal website to know more about me https://anoop-ashoka-kumar.netlify.app/
